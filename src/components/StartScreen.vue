@@ -16,20 +16,23 @@ export default {}
     margin-top: -70em;
 }
 .avatar {
-    width: 240px;
+    width: 270px;
     height: 270px;
     border-radius: 100%;
-    border-color: 10px solid #D97DDB;
+    border: 5px solid #be61c0;
     position: relative;
 }
 #name {
     color: #EFEFF0;
     margin-top: -3em;
     margin-bottom: 2em;
-
+    font-family: cambria;
+    font-size: 57px;
 }
 .career{
     color: #EFEFF0;
+    font-size: 66px;
+    font-family: serif;
 }
 </style>
 
