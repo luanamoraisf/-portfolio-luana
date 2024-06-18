@@ -1,11 +1,13 @@
 <script setup>
 import StartScreen from './components/StartScreen.vue'
 import NavBar from './components/NavBar.vue';
+import AboutMe from './components/AboutMe.vue';
 </script>
 
 <template>
   <NavBar />
-    <StartScreen />
+  <StartScreen />
+  <AboutMe/>
 </template>
 
 <style>
