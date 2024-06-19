@@ -24,10 +24,10 @@ export default {}
 }
 #name {
     color: #EFEFF0;
-    margin-top: -3em;
+    margin-top: -2.5em;
     margin-bottom: 2em;
-    font-family: cambria;
-    font-size: 57px;
+    font-family: serif;
+    font-size: 60px;
 }
 .career{
     color: #EFEFF0;
