@@ -39,7 +39,7 @@
     { name: 'Projetos', href: '#', current: false },
     { name: 'Experiências', href: '#', current: false },
     { name: 'Experiências', href: '#', current: false },
-    { name: 'Depoimentos', href: '#', current: false },
+    { name: 'Depoimento', href: '#', current: false },
     { name: 'Contatos', href: '#', current: true },
 
   ]

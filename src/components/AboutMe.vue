@@ -1,7 +1,7 @@
 <template>
     <div class="information">
-        <h1 id="education">Formação</h1>
-        <h1 id="professional">Experiência Profissional</h1>
+        <h1>Formação Acadêmica</h1>
+        <h1>Experiência Profissional</h1>
     </div>
     
     <div id="line-education"></div>
@@ -55,7 +55,7 @@ export default {
     margin-right: 40%;
 }
 .information{
-    margin-top: 12%;
+    margin-top: 17%;
     color: #EFEFF0;
     font-family: serif;
     margin-bottom: 5%;
