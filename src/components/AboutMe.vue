@@ -51,7 +51,7 @@ export default {
 #line-professional{
     height: 600px;
     border-right: 2px solid #be61c0;
-    margin-top: -49%;
+    margin-top: -49.4%;
     margin-right: 40%;
 }
 .information{
@@ -79,7 +79,7 @@ export default {
     border: 1px solid #be61c0;
     margin-left: 60%;
     margin-bottom: 50%;
-    margin-top: -50%;
+    margin-top: -50.4%;
 }
 #line-horizontal4{
     width: 30px;
@@ -90,7 +90,7 @@ export default {
 }
 #college{
     color: #EFEFF0;
-    margin-top: -52%;
+    margin-top: -51.6%;
     margin-bottom: 55%;
     margin-right: 55%;
     font-size: 22px;
@@ -105,14 +105,14 @@ export default {
 #internship1{
     color:#EFEFF0;
     font-size: 22px;
-    margin-top: -78%;
+    margin-top: -78.2%;
     margin-bottom: 80%;
     margin-left: 64%;
 }
 #internship2{
     color:#EFEFF0;
     font-size: 22px;
-    margin-top: -68%;
+    margin-top: -68.2%;
     margin-bottom: 70%;
     margin-left: 64%;
 }
