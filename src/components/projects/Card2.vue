@@ -14,7 +14,7 @@
     <h2 class="project2">Slytherin landing page</h2>
     <h2 class="text2">Projeto acadêmico de FrontEnd, landing page <br> dedicada a casa Slytherin da saga Harry Potter.</h2>
 
-    <img id="picture2" src="../../assets/slytherin.png">
+    <img id="picture2" src="../../assets/projects/slytherin.png">
   </a>
 </template>
 
