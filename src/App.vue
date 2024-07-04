@@ -3,6 +3,7 @@ import NavBar from './components/NavBar.vue';
 import StartScreen from './components/StartScreen.vue'
 import AboutMe from './components/AboutMe.vue';
 import Projects from './components/Projects.vue';
+import Experience from './components/Experience.vue';
 </script>
 
 <template>
@@ -10,6 +11,7 @@ import Projects from './components/Projects.vue';
   <StartScreen />
   <AboutMe/>
   <Projects/>
+  <Experience/>
 </template>
 
 <style>
