@@ -24,7 +24,7 @@ import Card5 from './projects/Card5.vue';
     color: #EFEFF0;
     font-family: serif;
     margin-bottom: 40%;
-    margin-top: -42%;
+    margin-top: -38%;
 }
 .git{
     cursor: pointer;

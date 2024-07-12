@@ -25,7 +25,7 @@ export default {}
 #name {
     color: #EFEFF0;
     margin-top: -2.5em;
-    margin-bottom: 2em;
+    margin-bottom: 2.5em;
     font-family: serif;
     font-size: 56px;
 }

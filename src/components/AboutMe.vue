@@ -55,7 +55,7 @@ export default {
     margin-right: 40%;
 }
 .information{
-    margin-top: 17%;
+    margin-top: 24%;
     color: #EFEFF0;
     font-family: serif;
     margin-bottom: 5%;
