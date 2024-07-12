@@ -5,6 +5,7 @@ import AboutMe from './components/AboutMe.vue';
 import Projects from './components/Projects.vue';
 import Experience from './components/Experience.vue';
 import Testimony from './components/Testimony.vue';
+import Contacts from './components/Contacts.vue';
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import Testimony from './components/Testimony.vue';
   <Projects/>
   <Experience/>
   <Testimony/>
+  <Contacts/>
 </template>
 
 <style>
