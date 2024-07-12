@@ -2,32 +2,32 @@
   <h1 id="title">Experiências</h1>
 
   <div class="linguages">
-    <a href="https://laravel.com/">
+    <a href="https://laravel.com/" target="_blank">
       <img id="laravel" src="../assets/experiences/Laravel-Logo.wine.webp">
     </a>
     <h2 class="lgs" id="laravel-label">Laravel</h2>
 
-    <a href="https://www.javascript.com/">
+    <a href="https://www.javascript.com/" target="_blank">
       <img id="js" src="../assets/experiences/javascript-logo.webp">
     </a>
     <h2 class="lgs" id="js-label">Javascript</h2>
 
-    <a href="https://rubyonrails.org/">
+    <a href="https://rubyonrails.org/" target="_blank">
       <img id="ror" src="../assets/experiences/Ruby_on_Rails-Logo.wine.webp">    
     </a>
     <h2 class="lgs" id="ror-label">Ruby on Rails</h2>
 
-    <a href="https://www.php.net/">
+    <a href="https://www.php.net/" target="_blank">
       <img id="php" src="../assets/experiences/PHP-Logo.webp">    
     </a>
     <h2 class="lgs" id="php-label">PHP</h2>
 
-    <a href="https://vuejs.org/">
+    <a href="https://vuejs.org/" target="_blank">
       <img id="vue" src="../assets/experiences/logovue.webp">  
     </a>
     <h2 class="lgs" id="vue-label">Vue.js</h2>
 
-    <a href="https://www.mysql.com/">
+    <a href="https://www.mysql.com/" target="_blank">
       <img id="sql" src="../assets/experiences/MySQL-Logo.wine.webp">
     </a>
     <h2 class="lgs" id="sql-label">MySQL</h2>
@@ -42,22 +42,22 @@
     </a>
     <h2 class="lgs" id="css-label">CSS</h2>
 
-    <a href="https://getbootstrap.com/">
+    <a href="https://getbootstrap.com/" target="_blank">
       <img id="boots" src="../assets/experiences/Bootstrap_logo.svg">      
     </a>
     <h2 class="lgs" id="boots-label">Bootstrap</h2>
 
-    <a href="">
+    <a href="https://tailwindcss.com/" target="_blank">
       <img id="wind" src="../assets/experiences/tailwind-css-2.webp">      
     </a>
     <h2 class="lgs" id="wind-label">Tailwind</h2>    
 
-    <a href="">
+    <a href="https://www.docker.com/" target="_blank">
       <img id="docker" src="../assets/experiences/97_Docker_logo_logos-512.webp">      
     </a>
     <h2 class="lgs" id="docker-label">Docker</h2> 
 
-    <a href="">
+    <a href="https://www.postman.com/" target="_blank">
       <img id="postman" src="../assets/experiences/postman.webp">      
     </a>
     <h2 class="lgs" id="postman-label">Postman</h2> 
