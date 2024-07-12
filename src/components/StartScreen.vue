@@ -1,7 +1,7 @@
 <template>
     <div class="data">
         <img src="/src/assets/avatar.jpg" class="avatar" />
-        <h1 id="name">Olá, eu sou Luana Morais</h1>
+        <h1 id="name">Olá, eu sou Luana Morais,</h1>
         <h1 class="career">Desenvolvedora</h1>
         <h1 class="career">de Software FullStack</h1>
     </div>
