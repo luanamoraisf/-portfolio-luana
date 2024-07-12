@@ -46,6 +46,22 @@
       <img id="boots" src="../assets/experiences/Bootstrap_logo.svg">      
     </a>
     <h2 class="lgs" id="boots-label">Bootstrap</h2>
+
+    <a href="">
+      <img id="wind" src="../assets/experiences/tailwind-css-2.webp">      
+    </a>
+    <h2 class="lgs" id="wind-label">Tailwind</h2>    
+
+    <a href="">
+      <img id="docker" src="../assets/experiences/97_Docker_logo_logos-512.webp">      
+    </a>
+    <h2 class="lgs" id="docker-label">Docker</h2> 
+
+    <a href="">
+      <img id="postman" src="../assets/experiences/postman.webp">      
+    </a>
+    <h2 class="lgs" id="postman-label">Postman</h2> 
+
   </div>
   
 </template>
@@ -60,7 +76,7 @@ export default {
 #title{
   color: #EFEFF0;
   font-family: serif;
-  margin-top: 15%;
+  margin-top: 18%;
   margin-bottom: 5%;
 }
 .linguages{
@@ -117,6 +133,23 @@ export default {
   margin-left: 73%;
   margin-top: -23%
 }
+#wind{
+  width: 255px;
+  height: 210px;
+  margin-top: 10%
+}
+#docker{
+  width: 290px;
+  height: 290px;
+  margin-left: 38%;
+  margin-top: -25%;
+}
+#postman{
+  width: 280px;
+  height: 280px;
+  margin-left: 71%;
+  margin-top: -24%;
+}
 .lgs{
   color: #EFEFF0;
   font-size: 22px;
@@ -158,5 +191,17 @@ export default {
 #boots-label{
   margin-left: 68%;
   margin-top: 2%;
+}
+#wind-label{
+  margin-right: 80%;
+  margin-top: 3%;
+}
+#docker-label{
+  margin-right: 4%;
+  margin-top: -1%;
+}
+#postman-label{
+  margin-left: 67.4%;
+  margin-top: -1%;
 }
 </style>
