@@ -4,6 +4,7 @@ import StartScreen from './components/StartScreen.vue'
 import AboutMe from './components/AboutMe.vue';
 import Projects from './components/Projects.vue';
 import Experience from './components/Experience.vue';
+import Testimony from './components/Testimony.vue';
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import Experience from './components/Experience.vue';
   <AboutMe/>
   <Projects/>
   <Experience/>
+  <Testimony/>
 </template>
 
 <style>
