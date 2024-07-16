@@ -1,4 +1,5 @@
 <template>
+    <section id="about-me"></section>
     <div class="information">
         <h1>Formação Acadêmica</h1>
         <h1>Experiência Profissional</h1>

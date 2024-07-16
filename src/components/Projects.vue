@@ -1,4 +1,6 @@
 <template>
+    <section id="projects"></section>
+
     <h1 class="title">Projetos</h1>
     <h2 class="subtitle">Clique nos cards para ver o código de cada projeto em seus repositórios.</h2>
 

@@ -1,4 +1,6 @@
 <template>
+    <section id="contacts"></section>
+
     <div id="line"></div>
 
     <div id="icons">

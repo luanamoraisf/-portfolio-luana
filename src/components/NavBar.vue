@@ -1,6 +1,6 @@
 <template>
-    <Disclosure as="nav" class="bg-gray-1000" style="margin-top: 1%; padding-bottom: 100%;" v-slot="{ open }">
-      <div class="mx-auto max-w-7xl px-2 lg:px-6 lg:px-8">
+    <Disclosure as="nav" class="bg-gray-1000" style="margin-top: 1%; padding-bottom: 105%;" v-slot="{ open }">
+      <div class="mx-auto max-w-7xl px-2 lg:px-6 lg:px-8" style="position: fixed;">
         <div class="relative flex h-16 justify-between ml-80">
           <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
             <!-- Mobile menu button-->
@@ -34,12 +34,12 @@
   import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/vue/24/outline'
   
   const navigation = [
-    { name: 'Início', href: '#', current: false },
-    { name: 'Sobre mim', href: '#', current: false },
-    { name: 'Projetos', href: '#', current: false },
-    { name: 'Experiências', href: '#', current: false },
-    { name: 'Depoimento', href: '#', current: false },
-    { name: 'Contatos', href: '#', current: true },
+    { name: 'Início', href: '#start-screen', current: false },
+    { name: 'Sobre mim', href: '#about-me', current: false },
+    { name: 'Projetos', href: '#projects', current: false },
+    { name: 'Experiências', href: '#experience', current: false },
+    { name: 'Depoimento', href: '#testimony', current: false },
+    { name: 'Contatos', href: '#contacts', current: true },
 
   ]
   </script>
