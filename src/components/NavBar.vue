@@ -1,10 +1,10 @@
 <template>
-    <Disclosure as="nav" class="bg-gray-1000" style="margin-top: 1%; padding-bottom: 105%;" v-slot="{ open }">
+    <Disclosure as="nav" class="bg-gray-1000" style="margin-top: 1%; margin-bottom: 108%;" v-slot="{ open }">
       <div class="mx-auto max-w-7xl px-2 lg:px-6 lg:px-8" style="position: fixed;">
         <div class="relative flex h-16 justify-between ml-80">
           <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
             <!-- Mobile menu button-->
-            <DisclosureButton class="relative inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white">
+            <DisclosureButton class="relative inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" >
               <span class="absolute -inset-0.5" />
               <span class="sr-only">Open main menu</span>
               <Bars3Icon v-if="!open" class="block h-6 w-6" aria-hidden="true" />

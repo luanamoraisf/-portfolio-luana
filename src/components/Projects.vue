@@ -1,5 +1,5 @@
 <template>
-    <section id="projects"></section>
+    <section id="projects">
 
     <h1 class="title">Projetos</h1>
     <h2 class="subtitle">Clique nos cards para ver o código de cada projeto em seus repositórios.</h2>
@@ -11,6 +11,8 @@
         <Card4/>
         <Card5/>
     </div>
+    </section>
+
 </template>
 
 <script setup>
