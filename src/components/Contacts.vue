@@ -54,7 +54,7 @@
 }
 #mail{
     margin-right: 62%;
-    margin-top: -3%;
+    margin-top: -3.5%;
 }
 #cell{
     margin-left: 0.4%;
