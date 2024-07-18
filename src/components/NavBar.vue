@@ -1,6 +1,6 @@
 <template>
-    <Disclosure as="nav" class="bg-gray-1000" style="margin-top: 1%; margin-bottom: 108%;" v-slot="{ open }">
-      <div class="mx-auto max-w-7xl px-2 lg:px-6 lg:px-8" style="position: fixed;">
+    <Disclosure as="nav" style="margin-bottom: 108%;" v-slot="{ open }">
+      <div class="mx-auto max-w-7xl px-2 lg:px-6 lg:px-8" style="position: fixed;  background-color: #1A1D22; border: 10px solid #1A1D22; margin-top: -2.2%;">
         <div class="relative flex h-16 justify-between ml-80">
           <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
             <!-- Mobile menu button-->
@@ -13,7 +13,7 @@
           </div>
           <div class="flex flex-1 lg:items-stretch lg:justify-start">
             <div class="hidden lg:ml-6 lg:block">
-              <div class="flex space-x-4">
+              <div class="flex space-x-4" style="margin-top: 1.6%; ">
                 <a v-for="item in navigation" :key="item.name" :href="item.href" :class="[item.current ? 'bg-[#be61c0] text-white' : 'text-gray-300', 'rounded-sm px-3 py-2 text-lg font-medium']" :aria-current="item.current ? 'page' : undefined">{{ item.name }}</a>
               </div>
             </div>
