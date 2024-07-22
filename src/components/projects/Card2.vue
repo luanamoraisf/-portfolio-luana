@@ -12,7 +12,7 @@
 
 
     <h2 class="project2">Slytherin landing page</h2>
-    <h2 class="text2">Projeto acadêmico de FrontEnd, landing page <br> dedicada a casa Slytherin da saga Harry Potter.</h2>
+    <h2 class="text2">Projeto acadêmico FrontEnd, landing page com <br> funcionalidades na NavBar, footer e <br> formulário com envio para entrar em contato.</h2>
 
     <img id="picture2" src="../../assets/projects/slytherin.png">
   </a>
@@ -104,7 +104,7 @@ export default {
     width: 500px;
     height: 271px;
     border-radius: 1px 1px 5% 5%;
-    margin-top: -46.2%;
+    margin-top: -48.2%;
     margin-left: 58%;
 }
 </style>

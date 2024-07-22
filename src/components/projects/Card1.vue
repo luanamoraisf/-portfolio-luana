@@ -12,7 +12,7 @@
     <h2 class="technology3">MySQL</h2>
 
     <h2 class="project1">Econômico</h2>
-    <h2 class="text1">O projeto nomeado Ecônomico foi um sistema <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
+    <h2 class="text1">Aplicação com sistema de autenticação <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
 
     <img id="picture1" src="../../assets/projects/economico2.png">
   </a>
