@@ -2,6 +2,7 @@
   <section id="experience"></section>
 
   <h1 id="title">Experiências</h1>
+  <h2 id="subtitle">Clique nas logos das tecnologias para verificar suas documentações.</h2>
 
   <div class="linguages">
     <a href="https://laravel.com/" target="_blank">
@@ -34,12 +35,12 @@
     </a>
     <h2 class="lgs" id="sql-label">MySQL</h2>
 
-    <a href="">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
       <img id="html" src="../assets/experiences/html5-logo.webp">
     </a>
     <h2 class="lgs" id="html-label">HTML</h2>
 
-    <a href="">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
       <img id="css" src="../assets/experiences/CSS-Logo-500x313.webp">
     </a>
     <h2 class="lgs" id="css-label">CSS</h2>
