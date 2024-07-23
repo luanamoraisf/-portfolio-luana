@@ -45,6 +45,9 @@ export default {
 </script>
 
 <style>
+#about-me{
+    margin-top: -40%;
+}
 #line-education{
     height: 600px;
     border-left: 2px solid #be61c0;
@@ -56,7 +59,7 @@ export default {
     margin-right: 40%;
 }
 .information{
-    margin-top: 24%;
+    margin-top: 12%;
     color: #EFEFF0;
     font-family: serif;
     margin-bottom: 5%;
