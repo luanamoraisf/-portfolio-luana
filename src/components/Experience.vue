@@ -79,7 +79,7 @@ export default {
 #title{
   color: #EFEFF0;
   font-family: serif;
-  margin-top: 18%;
+  margin-top: 20%;
   margin-bottom: 5%;
 }
 .linguages{
