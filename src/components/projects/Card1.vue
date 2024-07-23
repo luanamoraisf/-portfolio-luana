@@ -1,21 +1,24 @@
 <template>
-    <a href="https://github.com/luanamoraisf/economico" target="blank">
-    <div class="card1"></div>
+    <div class="w-[400] h-[500] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
+        <a href="https://github.com/luanamoraisf/economico" target="blank">
+            <div class="card1"></div>
 
-    <div class="label1"></div>
-    <div class="label2"></div>
-    <div class="label3"></div>
+            <div class="label1"></div>
+            <div class="label2"></div>
+            <div class="label3"></div>
 
 
-    <h2 class="technology1">Tailwind</h2>
-    <h2 class="technology2">Laravel</h2>
-    <h2 class="technology3">MySQL</h2>
+            <h2 class="technology1">Tailwind</h2>
+            <h2 class="technology2">Laravel</h2>
+            <h2 class="technology3">MySQL</h2>
 
-    <h2 class="project1">Econômico</h2>
-    <h2 class="text1">Aplicação com sistema de autenticação <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
+            <h2 class="project1">Econômico</h2>
+            <h2 class="text1">Aplicação com sistema de autenticação <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
 
-    <img id="picture1" src="../../assets/projects/economico2.png">
-  </a>
+            <img id="picture1" src="../../assets/projects/economico2.png">
+        </a>
+    </div>
+    
 </template>
 
 <script>
@@ -34,6 +37,7 @@ export default {
     margin-top: -32%;
     margin-left: 1%;
 }
+
 .label1{
     border-right: 70px solid #be61c0;
     border-left: 70px solid #be61c0;

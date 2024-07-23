@@ -1,17 +1,19 @@
 <template>
-    <a href="https://github.com/luanamoraisf/provocare" target="blank">
-    <div class="card4"></div>
+    <div class="w-[400] h-[500] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
+        <a href="https://github.com/luanamoraisf/provocare" target="blank">
+            <div class="card4"></div>
 
-    <div class="but8"></div>
+            <div class="but8"></div>
 
-    <h2 class="technology8">Vue.js</h2>
+            <h2 class="technology8">Vue.js</h2>
 
 
-    <h2 class="project4">Provocare</h2>
-    <h2 class="text4">Projeto acadêmcio, sistema para criar desafios <br> relacionados a TI e/ou participar para tentar <br> solucionar sozinho ou com uma equipe.</h2>
+            <h2 class="project4">Provocare</h2>
+            <h2 class="text4">Projeto acadêmcio, sistema para criar desafios <br> relacionados a TI e/ou participar para tentar <br> solucionar sozinho ou com uma equipe.</h2>
 
-    <img id="picture4" src="../../assets/projects/provocare.png">
-  </a>
+            <img id="picture4" src="../../assets/projects/provocare.png">
+        </a>
+    </div>
 </template>
 
 <script>

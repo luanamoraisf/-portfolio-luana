@@ -1,21 +1,24 @@
 <template>
-  <a href="https://github.com/luanamoraisf/slytherin-landing-page" target="blank">
-    <div class="card2"></div>
+    <div class="w-[400] h-[500] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
+        <a href="https://github.com/luanamoraisf/slytherin-landing-page" target="blank">
+            <div class="card2"></div>
 
-    <div class="but4"></div>
-    <div class="but5"></div>
-    <div class="but6"></div>
+            <div class="but4"></div>
+            <div class="but5"></div>
+            <div class="but6"></div>
 
-    <h2 class="technology4">Bootstrap</h2>
-    <h2 class="technology5">HTML/CSS</h2>
-    <h2 class="technology6">jQuery</h2>
+            <h2 class="technology4">Bootstrap</h2>
+            <h2 class="technology5">HTML/CSS</h2>
+            <h2 class="technology6">jQuery</h2>
 
 
-    <h2 class="project2">Slytherin landing page</h2>
-    <h2 class="text2">Projeto acadêmico FrontEnd, landing page com <br> funcionalidades na NavBar, footer e <br> formulário com envio para entrar em contato.</h2>
+            <h2 class="project2">Slytherin landing page</h2>
+            <h2 class="text2">Projeto acadêmico FrontEnd, landing page com <br> funcionalidades na NavBar, footer e <br> formulário com envio para entrar em contato.</h2>
 
-    <img id="picture2" src="../../assets/projects/slytherin.png">
-  </a>
+            <img id="picture2" src="../../assets/projects/slytherin.png">
+        </a>
+    </div>
+ 
 </template>
 
 <script>

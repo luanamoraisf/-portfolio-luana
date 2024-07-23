@@ -1,16 +1,19 @@
 <template>
-    <a href="https://github.com/luanamoraisf/data-collect" target="blank">
-    <div class="card5"></div>
+    <div class="w-[400] h-[500] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
+        <a href="https://github.com/luanamoraisf/data-collect" target="blank">
+            <div class="card5"></div>
 
-    <div class="but9"></div>
+            <div class="but9"></div>
 
-    <h2 class="technology9">Python</h2>
+            <h2 class="technology9">Python</h2>
 
-    <h2 class="project5">Web Scraping</h2>
-    <h2 class="text5">Sistema de web scraping que coleta dados de  <br> uma rede social sobre livros, para um projeto <br> acadêmico de pesquisa com o objetivo da criação <br> de um corpus de opiniões sobre livros.</h2>
+            <h2 class="project5">Web Scraping</h2>
+            <h2 class="text5">Sistema de web scraping que coleta dados de  <br> uma rede social sobre livros, para um projeto <br> acadêmico de pesquisa com o objetivo da criação <br> de um corpus de opiniões sobre livros.</h2>
 
-    <img id="picture5" src="../../assets/projects/webscraping.png">
-  </a>
+            <img id="picture5" src="../../assets/projects/webscraping.png">
+        </a>
+    </div>
+    
 </template>
 
 <script>
