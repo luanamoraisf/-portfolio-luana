@@ -1,16 +1,15 @@
 <template>
     <section id="projects">
+        <h1 class="title">Projetos</h1>
+        <h2 class="subtitle">Clique nos cards para ver o código de cada projeto em seus repositórios.</h2>
 
-    <h1 class="title">Projetos</h1>
-    <h2 class="subtitle">Clique nos cards para ver o código de cada projeto em seus repositórios.</h2>
-
-    <div class="git">
-        <Card1/>
-        <Card2/>
-        <Card3/>
-        <Card4/>
-        <Card5/>
-    </div>
+        <div class="git">
+            <Card1/>
+            <Card2/>
+            <Card3/>
+            <Card4/>
+            <Card5/>
+        </div>
     </section>
 
 </template>
@@ -24,11 +23,14 @@ import Card5 from './projects/Card5.vue';
 </script>
 
 <style>
+#projects{
+    padding-top: 10%;
+    margin-bottom: 12%;
+}
 .title{
     color: #EFEFF0;
     font-family: serif;
     margin-bottom: 40%;
-    margin-top: -38%;
 }
 .git{
     cursor: pointer;

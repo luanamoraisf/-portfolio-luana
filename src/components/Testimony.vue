@@ -41,6 +41,9 @@
 </template>
 
 <style>
+#testimony{
+  padding-top: 10%;
+}
 #subtitle{
     color: #EFEFF0;
     font-size: 22px;

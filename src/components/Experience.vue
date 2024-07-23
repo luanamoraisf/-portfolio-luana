@@ -1,71 +1,73 @@
 <template>
-  <section id="experience"></section>
+  <section id="experience">
+    <h1 id="title">Experiências</h1>
+    <h2 id="subtitle">Clique nas logos das tecnologias para verificar suas documentações.</h2>
 
-  <h1 id="title">Experiências</h1>
-  <h2 id="subtitle">Clique nas logos das tecnologias para verificar suas documentações.</h2>
+    <div class="linguages">
+      <a href="https://laravel.com/" target="_blank">
+        <img id="laravel" src="../assets/experiences/Laravel-Logo.wine.webp">
+      </a>
+      <h2 class="lgs" id="laravel-label">Laravel</h2>
 
-  <div class="linguages">
-    <a href="https://laravel.com/" target="_blank">
-      <img id="laravel" src="../assets/experiences/Laravel-Logo.wine.webp">
-    </a>
-    <h2 class="lgs" id="laravel-label">Laravel</h2>
+      <a href="https://www.javascript.com/" target="_blank">
+        <img id="js" src="../assets/experiences/javascript-logo.webp">
+      </a>
+      <h2 class="lgs" id="js-label">Javascript</h2>
 
-    <a href="https://www.javascript.com/" target="_blank">
-      <img id="js" src="../assets/experiences/javascript-logo.webp">
-    </a>
-    <h2 class="lgs" id="js-label">Javascript</h2>
+      <a href="https://rubyonrails.org/" target="_blank">
+        <img id="ror" src="../assets/experiences/Ruby_on_Rails-Logo.wine.webp">    
+      </a>
+      <h2 class="lgs" id="ror-label">Ruby on Rails</h2>
 
-    <a href="https://rubyonrails.org/" target="_blank">
-      <img id="ror" src="../assets/experiences/Ruby_on_Rails-Logo.wine.webp">    
-    </a>
-    <h2 class="lgs" id="ror-label">Ruby on Rails</h2>
+      <a href="https://www.php.net/" target="_blank">
+        <img id="php" src="../assets/experiences/PHP-Logo.webp">    
+      </a>
+      <h2 class="lgs" id="php-label">PHP</h2>
 
-    <a href="https://www.php.net/" target="_blank">
-      <img id="php" src="../assets/experiences/PHP-Logo.webp">    
-    </a>
-    <h2 class="lgs" id="php-label">PHP</h2>
+      <a href="https://vuejs.org/" target="_blank">
+        <img id="vue" src="../assets/experiences/logovue.webp">  
+      </a>
+      <h2 class="lgs" id="vue-label">Vue.js</h2>
 
-    <a href="https://vuejs.org/" target="_blank">
-      <img id="vue" src="../assets/experiences/logovue.webp">  
-    </a>
-    <h2 class="lgs" id="vue-label">Vue.js</h2>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img id="sql" src="../assets/experiences/MySQL-Logo.wine.webp">
+      </a>
+      <h2 class="lgs" id="sql-label">MySQL</h2>
 
-    <a href="https://www.mysql.com/" target="_blank">
-      <img id="sql" src="../assets/experiences/MySQL-Logo.wine.webp">
-    </a>
-    <h2 class="lgs" id="sql-label">MySQL</h2>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+        <img id="html" src="../assets/experiences/html5-logo.webp">
+      </a>
+      <h2 class="lgs" id="html-label">HTML</h2>
 
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-      <img id="html" src="../assets/experiences/html5-logo.webp">
-    </a>
-    <h2 class="lgs" id="html-label">HTML</h2>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+        <img id="css" src="../assets/experiences/CSS-Logo-500x313.webp">
+      </a>
+      <h2 class="lgs" id="css-label">CSS</h2>
 
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-      <img id="css" src="../assets/experiences/CSS-Logo-500x313.webp">
-    </a>
-    <h2 class="lgs" id="css-label">CSS</h2>
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img id="boots" src="../assets/experiences/Bootstrap_logo.svg">      
+      </a>
+      <h2 class="lgs" id="boots-label">Bootstrap</h2>
 
-    <a href="https://getbootstrap.com/" target="_blank">
-      <img id="boots" src="../assets/experiences/Bootstrap_logo.svg">      
-    </a>
-    <h2 class="lgs" id="boots-label">Bootstrap</h2>
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img id="wind" src="../assets/experiences/tailwind-css-2.webp">      
+      </a>
+      <h2 class="lgs" id="wind-label">Tailwind</h2>    
 
-    <a href="https://tailwindcss.com/" target="_blank">
-      <img id="wind" src="../assets/experiences/tailwind-css-2.webp">      
-    </a>
-    <h2 class="lgs" id="wind-label">Tailwind</h2>    
+      <a href="https://www.docker.com/" target="_blank">
+        <img id="docker" src="../assets/experiences/97_Docker_logo_logos-512.webp">      
+      </a>
+      <h2 class="lgs" id="docker-label">Docker</h2> 
 
-    <a href="https://www.docker.com/" target="_blank">
-      <img id="docker" src="../assets/experiences/97_Docker_logo_logos-512.webp">      
-    </a>
-    <h2 class="lgs" id="docker-label">Docker</h2> 
+      <a href="https://www.postman.com/" target="_blank">
+        <img id="postman" src="../assets/experiences/postman.webp">      
+      </a>
+      <h2 class="lgs" id="postman-label">Postman</h2> 
 
-    <a href="https://www.postman.com/" target="_blank">
-      <img id="postman" src="../assets/experiences/postman.webp">      
-    </a>
-    <h2 class="lgs" id="postman-label">Postman</h2> 
+    </div>
 
-  </div>
+  </section>
+
   
 </template>
 
@@ -76,10 +78,13 @@ export default {
 </script>
 
 <style>
+#experience{
+  padding-top: 10%;
+  margin-bottom: 10%;
+}
 #title{
   color: #EFEFF0;
   font-family: serif;
-  margin-top: 20%;
   margin-bottom: 5%;
 }
 .linguages{
