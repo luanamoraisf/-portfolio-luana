@@ -9,7 +9,9 @@
         <h2 class="project5">Web Scraping</h2>
         <h2 class="text5">Sistema de web scraping que coleta dados de  <br> uma rede social sobre livros, para um projeto <br> acadêmico de pesquisa com o objetivo da criação <br> de um corpus de opiniões sobre livros.</h2>
 
-        <img id="picture5" src="../../assets/projects/webscraping.png">
+        <div class="picture">
+            <img id="picture5" src="../../assets/projects/webscraping.png">
+        </div>
     </a>    
 </template>
 

@@ -14,7 +14,9 @@
         <h2 class="project1">Econômico</h2>
         <h2 class="text1">Aplicação com sistema de autenticação <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
 
-        <img id="picture1" src="../../assets/projects/economico2.png">
+        <div class="picture">
+            <img id="picture1" src="../../assets/projects/economico2.png">
+        </div>
     </a>    
 </template>
 
@@ -25,6 +27,18 @@ export default {
 </script>
 
 <style>
+.picture img{
+   -webkit-transition: -webkit-transform .5s ease;
+   transition: transform .5s ease;
+}
+
+.picture:hover img{
+    position: relative;
+    z-index: 2;
+   -webkit-transform: scale(1.1);
+   transform: scale(1.7);
+   box-shadow: 0 8px 8px 8px #616161;
+}
 #card1{
     width: 400px;
     height: 500px;

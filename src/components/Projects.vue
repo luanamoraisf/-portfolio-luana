@@ -1,7 +1,7 @@
 <template>
     <section id="projects">
         <h1 class="title">Projetos</h1>
-        <h2 class="subtitle">Clique nos cards para ver o código de cada projeto em seus repositórios.</h2>
+        <h2 class="subtitle">Passe o mouse pelas fotos para ampliá-las e clique nos cards para ver o código de cada projeto.</h2>
 
         <div>
             <Card1/>

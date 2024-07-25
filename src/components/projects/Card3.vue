@@ -10,7 +10,9 @@
         <h2 class="project3">API Node</h2>
         <h2 class="text3">API simples em Node, <br> com retorno de dados de usuários.</h2>
 
-        <img id="picture3" src="../../assets/projects/api.webp"> 
+        <div class="picture">
+            <img id="picture3" src="../../assets/projects/api.webp"> 
+        </div>
     </a>
 </template>
 

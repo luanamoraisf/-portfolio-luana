@@ -10,7 +10,9 @@
         <h2 class="project4">Provocare</h2>
         <h2 class="text4">Projeto acadêmcio, sistema para criar desafios <br> relacionados a TI e/ou participar para tentar <br> solucionar sozinho ou com uma equipe.</h2>
 
-        <img id="picture4" src="../../assets/projects/provocare.png">
+        <div class="picture">
+            <img id="picture4" src="../../assets/projects/provocare.png">
+        </div>
     </a>
 </template>
 
