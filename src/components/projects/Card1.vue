@@ -1,24 +1,21 @@
 <template>
-    <div class="w-[400] h-[500] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
-        <a href="https://github.com/luanamoraisf/economico" target="blank">
-            <div class="card1"></div>
+    <a href="https://github.com/luanamoraisf/economico" target="blank" class="w-[400] h-[500] mt-[-32] ml-[1] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
+        <div id="card1" style="cursor: pointer;"></div>
 
-            <div class="label1"></div>
-            <div class="label2"></div>
-            <div class="label3"></div>
+        <div class="label1"></div>
+        <div class="label2"></div>
+        <div class="label3"></div>
 
 
-            <h2 class="technology1">Tailwind</h2>
-            <h2 class="technology2">Laravel</h2>
-            <h2 class="technology3">MySQL</h2>
+        <h2 class="technology1">Tailwind</h2>
+        <h2 class="technology2">Laravel</h2>
+        <h2 class="technology3">MySQL</h2>
 
-            <h2 class="project1">Econômico</h2>
-            <h2 class="text1">Aplicação com sistema de autenticação <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
+        <h2 class="project1">Econômico</h2>
+        <h2 class="text1">Aplicação com sistema de autenticação <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
 
-            <img id="picture1" src="../../assets/projects/economico2.png">
-        </a>
-    </div>
-    
+        <img id="picture1" src="../../assets/projects/economico2.png">
+    </a>    
 </template>
 
 <script>
@@ -28,7 +25,7 @@ export default {
 </script>
 
 <style>
-.card1{
+#card1{
     width: 400px;
     height: 500px;
     border-radius: 5%;
@@ -37,7 +34,6 @@ export default {
     margin-top: -32%;
     margin-left: 1%;
 }
-
 .label1{
     border-right: 70px solid #be61c0;
     border-left: 70px solid #be61c0;

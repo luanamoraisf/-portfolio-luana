@@ -1,20 +1,17 @@
 <template>
-    <div class="w-[400] h-[500] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
-        <a href="https://github.com/luanamoraisf/node_api" target="blank">
-            <div class="card3"></div>
+    <a href="https://github.com/luanamoraisf/node_api" target="blank">
+        <div id="card3" style="cursor: pointer;"></div>
 
-            <div class="but7"></div>
+        <div class="but7"></div>
 
-            <h2 class="technology7">Node.js</h2>
+        <h2 class="technology7">Node.js</h2>
 
 
-            <h2 class="project3">API Node</h2>
-            <h2 class="text3">API simples em Node, <br> com retorno de dados de usuários.</h2>
+        <h2 class="project3">API Node</h2>
+        <h2 class="text3">API simples em Node, <br> com retorno de dados de usuários.</h2>
 
-            <img id="picture3" src="../../assets/projects/api.webp"> 
-        </a>
-    </div>
-
+        <img id="picture3" src="../../assets/projects/api.webp"> 
+    </a>
 </template>
 
 <script>
@@ -24,7 +21,7 @@ export default {
 </script>
 
 <style>
-.card3{
+#card3{
     width: 400px;
     height: 500px;
     border-radius: 5%;
