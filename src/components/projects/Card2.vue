@@ -1,5 +1,5 @@
 <template>
-    <a href="https://github.com/luanamoraisf/slytherin-landing-page" target="blank" class="w-[400] h-[500] ml[58] mt-[-41.2] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
+    <a href="https://github.com/luanamoraisf/slytherin-landing-page" target="blank">
         <div id="card2" style="cursor: pointer;"></div>
 
         <div class="but4"></div>

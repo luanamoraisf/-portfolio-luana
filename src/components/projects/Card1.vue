@@ -1,5 +1,5 @@
 <template>
-    <a href="https://github.com/luanamoraisf/economico" target="blank" class="w-[400] h-[500] mt-[-32] ml-[1] hover:drop-shadow-[0_25px_25px_rgba(100,100,100,1)]">
+    <a href="https://github.com/luanamoraisf/economico" target="blank">
         <div id="card1" style="cursor: pointer;"></div>
 
         <div class="label1"></div>
