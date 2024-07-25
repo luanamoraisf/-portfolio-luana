@@ -2,6 +2,7 @@
     <section id="contacts"></section>
 
     <div id="line"></div>
+    <h2 id="subtitle">Clique nos ícones para entrar em contato e visitar meu perfil nas plataformas.</h2>
 
     <div id="icons">
         <a href="https://github.com/luanamoraisf" target="_blank">
@@ -10,11 +11,12 @@
         <a href="https://www.linkedin.com/in/luana-florencio/" target="_blank">
             <img id="linkedin" src="../assets/contact/icons8-linkedin-64.png">
         </a>
-        <img id="cell" src="../assets/contact/icons8-telefone-celular-64.png">
-        <h2 class="datas" id="number">(81)9 8676-5325</h2>
-        <img id="email" src="../assets/contact/icons8-enviar-60.png">
-        <h2 class="datas" id="mail">luanaflorenciopc@gmail.com</h2>
-
+        <a href="https://wa.me/558186765325" target="_blank">
+            <img id="cell" src="../assets/contact/icons8-whatsapp-64.png">
+        </a>
+        <a href="mailto:luanaflorenciopc@gmail.com">
+            <img id="email" src="../assets/contact/icons8-enviar-60.png">
+        </a>
     </div>
    
 
@@ -24,40 +26,12 @@
     border: 1px solid #be61c0;
     width: 1225px;
     margin-top: 15%;
+    margin-bottom: 5%;
 }
 #icons{
     margin-top: 4%;
     margin-bottom: 3%;
-}
-#email{
-    margin-left: 0.5%;
-    margin-top: 4%;
-
-}
-#git{
-    margin-left: 40%;
-    margin-bottom: 3%;
-}
-#linkedin{
-    margin-left: 40%;
-    margin-bottom: 3%;
-
-}
-.datas{
-    color: #EFEFF0;
-    font-size: 20px;
-}
-#number{
-    margin-right: 72%;
-    margin-top: -3.5%;
-    /* margin-left: 20%; */
-}
-#mail{
-    margin-right: 62%;
-    margin-top: -3.5%;
-}
-#cell{
-    margin-left: 0.4%;
-    margin-top: -16.6%;
+    display: flex;
+    justify-content: space-around;
 }
 </style>
