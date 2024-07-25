@@ -14,7 +14,7 @@
         <div class="flex flex-1 lg:items-stretch lg:justify-start">
           <div class="hidden lg:ml-6 lg:block">
             <div class="flex space-x-4" style="margin-top: 1.6%;">
-              <a v-for="item in navigation" :key="item.name" v-scroll-to="item.href" :class="[item.current ? 'bg-[#be61c0] text-white' : 'text-gray-300', 'rounded-sm px-3 py-2 text-lg font-medium']" :aria-current="item.current ? 'page' : undefined">{{ item.name }}</a>
+              <a v-for="item in navigation" :key="item.name" v-scroll-to="item.href" :class="[item.current ? 'bg-[#be61c0] text-white hover:bg-[#6d256e]' : 'text-gray-300 hover:bg-[#6d256e]', 'rounded-sm px-3 py-2 text-lg font-medium']" :aria-current="item.current ? 'page' : undefined">{{ item.name }}</a>
             </div>
           </div>
         </div>
@@ -23,7 +23,7 @@
 
     <DisclosurePanel class="lg:hidden">
       <div class="space-y-1 px-2 pb-3 pt-2">
-        <DisclosureButton v-for="item in navigation" :key="item.name" as="a" v-scroll-to="item.href" :class="[item.current ? 'bg-[#be61c0] text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'block rounded-sm px-3 py-2 text-base font-medium']" :aria-current="item.current ? 'page' : undefined">{{ item.name }}</DisclosureButton>
+        <DisclosureButton v-for="item in navigation" :key="item.name" as="a" v-scroll-to="item.href" :class="[item.current ? 'bg-[#be61c0] text-white hover:bg-[#6d256e]' : 'text-gray-300 hover:bg-[#6d256e] hover:text-white', 'block rounded-sm px-3 py-2 text-base font-medium']" :aria-current="item.current ? 'page' : undefined">{{ item.name }}</DisclosureButton>
       </div>
     </DisclosurePanel>
   </Disclosure>
