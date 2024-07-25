@@ -3,7 +3,7 @@
         <h1 class="title">Projetos</h1>
         <h2 class="subtitle">Clique nos cards para ver o código de cada projeto em seus repositórios.</h2>
 
-        <div class="git">
+        <div>
             <Card1/>
             <Card2/>
             <Card3/>
@@ -31,9 +31,6 @@ import Card5 from './projects/Card5.vue';
     color: #EFEFF0;
     font-family: serif;
     margin-bottom: 40%;
-}
-.git{
-    cursor: pointer;
 }
 .subtitle{
     color: #EFEFF0;
