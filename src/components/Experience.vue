@@ -98,64 +98,65 @@ export default {
 #js{
   width: 200px;
   height: 200px;
-  margin-left: 40%;
+  margin-left: 42%;
   margin-top: -33%
 }
 #ror{
   width: 350px;
   height: 280px;
-  margin-left: 68%;
+  margin-left: 72%;
   margin-top: -33%
 }
 #php{
-  margin-left: 2%;
+  margin-left: 3%;
 }
 #vue{
   width: 220px;
   height: 180px;
-  margin-left: 39%;
+  margin-left: 41%;
   margin-top: -19%;
   margin-bottom: 1%;
 }
 #sql{
   width: 340px;
   height: 300px;
-  margin-left: 69%;
+  margin-left: 73%;
   margin-top: -24%;
 }
 #html{
   width: 200px;
   height: 250px;
-  margin-left: 5%;
+  margin-left: 7%;
   margin-top: 12%;
 }
 #css{
   width: 450px;
   height: 260px;
-  margin-left: 30%;
+  margin-left: 32%;
   margin-top: -25.5%
 }
 #boots{
   width: 260px;
   height: 220px;
-  margin-left: 73%;
+  margin-left: 77%;
   margin-top: -23%
 }
 #wind{
   width: 255px;
   height: 210px;
-  margin-top: 10%
+  margin-top: 10%;
+  margin-left: 3%;
 }
 #docker{
   width: 290px;
   height: 290px;
-  margin-left: 38%;
+  margin-left: 40%;
   margin-top: -25%;
 }
 #postman{
   width: 280px;
   height: 280px;
-  margin-left: 71%;
+  margin-left: 75%;
   margin-top: -24%;
 }
 .lgs{
@@ -163,53 +164,48 @@ export default {
   font-size: 22px;
 }
 #laravel-label{
-  margin-right: 70%;
+  margin-right: 69%;
   margin-bottom: 12%;
   margin-top: -2%;
 }
 #js-label{
-  margin-right: 4%;
   margin-top: 2%;
   margin-bottom: 10%;
 }
 #ror-label{
-  margin-left: 67%;
+  margin-left: 75%;
   margin-top: -2.5%;
   margin-bottom: 10%;
 }
 #php-label{
-  margin-right: 71%;
+  margin-right: 69%;
   margin-top: 2%;
 }
-#vue-label{
-  margin-right: 4%;
-}
 #sql-label{
-  margin-left: 67%;
+  margin-left: 75%;
   margin-top: -3%;
 }
 #html-label{
-  margin-right: 74%;
+  margin-right: 69.5%;
   margin-top: 2%;
 }
 #css-label{
-  margin-right: 3.3%;
+  margin-left: 1%;
   margin-top: 2%;
 }
 #boots-label{
-  margin-left: 68%;
+  margin-left: 75.7%;
   margin-top: 2%;
 }
 #wind-label{
-  margin-right: 80%;
+  margin-right: 76%;
   margin-top: 3%;
 }
 #docker-label{
-  margin-right: 4%;
   margin-top: -1%;
 }
 #postman-label{
-  margin-left: 67.4%;
-  margin-top: -1%;
+  margin-left: 75%;
+  margin-top: -2%;
 }
 </style>
