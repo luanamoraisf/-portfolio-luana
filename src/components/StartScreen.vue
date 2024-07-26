@@ -15,7 +15,7 @@ export default {}
 
 <style>
 #start-screen{
-    padding-top: 110%;
+    padding-top: 109%;
 }
 .data{
     margin-top: -70em;
