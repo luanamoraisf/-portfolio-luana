@@ -15,13 +15,13 @@
 
         <div id="college">
             <h2>Análise e Desenvolvimento de Sistemas</h2>
-            <h2 class="edu">UNINASSAU</h2>
+            <h2>Centro Universitário Maurício de Nassau</h2>
             <h2 class="edu">2021 - 2024</h2>
         </div>
         
         <div id="technical">
             <h2 class="course">Informática para Internet</h2>
-            <h2>IFPE - Instituto Federal de Pernambuco</h2>
+            <h2>Instituto Federal de Pernambuco - IFPE</h2>
             <h2 class="edu">2019 - 2021</h2>
         </div>
 
