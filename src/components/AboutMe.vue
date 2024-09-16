@@ -1,6 +1,6 @@
 <template>
     <section id="about-me">
-        <div class="information">
+        <div class="text-[#EFEFF0] font-serif flex justify-between mt-28 mb-12">
             <h1>Formação Acadêmica</h1>
             <h1>Experiência Profissional</h1>
         </div>
@@ -13,7 +13,7 @@
         <div id="line-horizontal3"></div>
         <div id="line-horizontal4"></div>
 
-        <div id="college">
+        <div id="college" class="text-[#EFEFF0] text-xsm">
             <h2>Análise e Desenvolvimento de Sistemas</h2>
             <h2>Centro Universitário Maurício de Nassau</h2>
             <h2 class="edu">2021 - 2024</h2>
@@ -62,14 +62,6 @@ export default {
     margin-top: -49.4%;
     margin-right: 40%;
 }
-.information{
-    margin-top: 12%;
-    color: #EFEFF0;
-    font-family: serif;
-    margin-bottom: 5%;
-    display: flex;
-    justify-content: space-between;
-}
 #line-horizontal1{
     width: 30px;
     border: 1px solid #be61c0;
@@ -93,10 +85,8 @@ export default {
     margin-top: -20%;
 }
 #college{
-    color: #EFEFF0;
     margin-top: -1.5%;
     margin-right: 55%;
-    font-size: 22px;
 }
 #technical{
     color: #EFEFF0;
