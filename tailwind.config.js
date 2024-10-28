@@ -15,7 +15,6 @@ export default {
       md: '700px',
       lg: '1400px',
       xl: '2000px'
-
     },
     extend: {}
   },

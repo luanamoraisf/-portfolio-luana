@@ -13,28 +13,28 @@
         <div id="line-horizontal3"></div>
         <div id="line-horizontal4"></div>
 
-        <div id="college" class="text-[#EFEFF0] text-xsm">
-            <h2>Análise e Desenvolvimento de Sistemas</h2>
-            <h2>Centro Universitário Maurício de Nassau</h2>
+        <div class="text-[#EFEFF0] text-xsm mr-96 -mt-5">
+            <h2 class="mr-56">Análise e Desenvolvimento de Sistemas</h2>
+            <h2 class="mr-56">Centro Universitário Maurício de Nassau</h2>
             <h2 class="edu">2021 - 2024</h2>
         </div>
         
-        <div id="technical">
-            <h2 class="course">Informática para Internet</h2>
-            <h2>Instituto Federal de Pernambuco - IFPE</h2>
+        <div class="text-[#EFEFF0] text-xsm mr-96 mt-32">
+            <h2 class="mr-96">Informática para Internet</h2>
+            <h2 class="mr-60">Instituto Federal de Pernambuco - IFPE</h2>
             <h2 class="edu">2019 - 2021</h2>
         </div>
 
-        <div id="internship1">
-            <h2>Desenvolvedora de Software FullStack</h2>
-            <h2 class="startup1">Viitra Inovações</h2>
-            <h2 class="date">04/2022 - 06/2024</h2>
+        <div class="text-[#EFEFF0] text-xsm ml-96 -mt-96 -mr-14">
+            <h2 class="ml-96 mt-10">Desenvolvedora de Software FullStack</h2>
+            <h2 class="ml-36">Viitra Inovações</h2>
+            <h2 class="ml-44">04/2022 - 06/2024</h2>
         </div>
         
-        <div id="internship2">
-            <h2>Desenvolvedora de Software FullStack</h2>
-            <h2 class="startup2">Verdanatec Soluções em TI</h2>
-            <h2 class="date">07/2021 - 02/2022</h2>
+        <div class="text-[#EFEFF0] text-xsm ml-96 -mr-14 mt-36">
+            <h2 class="ml-96 -mt-2">Desenvolvedora de Software FullStack</h2>
+            <h2 class="ml-64">Verdanatec Soluções em TI</h2>
+            <h2 class="ml-40">07/2021 - 02/2022</h2>
         </div>
     </section>
     
@@ -76,7 +76,6 @@ export default {
     width: 30px;
     border: 1px solid #be61c0;
     margin-left: 60%;
-    margin-top: -0.2%;
 }
 #line-horizontal4{
     width: 30px;
@@ -84,41 +83,7 @@ export default {
     margin-left: 60%;
     margin-top: -20%;
 }
-#college{
-    margin-top: -1.5%;
-    margin-right: 55%;
-}
-#technical{
-    color: #EFEFF0;
-    margin-top: 11.6%;
-    margin-right: 55%;
-    font-size: 22px;
-}
-#internship1{
-    color:#EFEFF0;
-    font-size: 22px;
-    margin-top: -27.8%;
-    margin-left: 64%;
-}
-#internship2{
-    color:#EFEFF0;
-    font-size: 22px;
-    margin-top: 11.7%;
-    margin-left: 64%;
-}
 .edu{
-    margin-right: 50%;
-}
-.course{
-    margin-right: 25%;
-}
-.date{
-    margin-right: 45%;
-}
-.startup1{
-    margin-right: 51%;
-}
-.startup2{
-    margin-right: 27%;
+    margin-right: 64%;
 }
 </style>
