@@ -1,7 +1,7 @@
 <template>
     <section id="projects">
         <h1 class="text-color-[#EFEFF0] font-serif mb-3.5">Projetos</h1>
-        <h2 class="text-color-[#EFEFF0] text-xsm mb-96">Passe o mouse pelas fotos para ampliá-las e clique nos cards para ver o código de cada projeto.</h2>
+        <h2 class="text-color-[#EFEFF0] text-xsm mb-20">Passe o mouse pelas fotos para ampliá-las e clique nos cards para ver o código de cada projeto.</h2>
 
         <div>
             <Card1/>
