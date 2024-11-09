@@ -1,10 +1,10 @@
 <template>
     <a href="https://github.com/luanamoraisf/economico" target="blank">
-        <div id="card1" style="cursor: pointer;"></div>
+        <div id="card1" class="w-96 rounded-3xl ml-3 cursor-pointer"></div>
 
-        <div class="label1"></div>
-        <div class="label2"></div>
-        <div class="label3"></div>
+        <div id="label1" class="w-7 h-9 rounded-full"></div>
+        <div id="label2" class="w-7 h-9 rounded-full"></div>
+        <div id="label3" class="w-7 h-9 rounded-full"></div>
 
 
         <h2 class="technology1">Tailwind</h2>
@@ -40,40 +40,27 @@ export default {
    box-shadow: 0 8px 8px 8px #616161;
 }
 #card1{
-    width: 400px;
     height: 500px;
-    border-radius: 5%;
     border-right: 250px solid #EFEFF0;
     border-left: 250px solid #EFEFF0;
-    margin-top: -32%;
-    margin-left: 1%;
 }
-.label1{
+#label1{
     border-right: 70px solid #be61c0;
     border-left: 70px solid #be61c0;
-    width: 30px;
-    height: 35px;
-    border-radius: 50px;
     margin-bottom: 50%;
     margin-top: -40%;
     margin-left: 28%;
 }
-.label2{
+#label2{
     border-right: 70px solid #be61c0;
     border-left: 70px solid #be61c0;
-    width: 30px;
-    height: 35px;
-    border-radius: 50px;
     margin-bottom: 50%;
     margin-top: -643px;
     margin-left: 2.8%;
 }
-.label3{
+#label3{
     border-right: 70px solid #be61c0;
     border-left: 70px solid #be61c0;
-    width: 30px;
-    height: 35px;
-    border-radius: 50px;
     margin-bottom: 50%;
     margin-top: -643px;
     margin-left: 15.4%;
