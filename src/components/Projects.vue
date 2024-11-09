@@ -1,7 +1,7 @@
 <template>
     <section id="projects">
-        <h1 class="title">Projetos</h1>
-        <h2 class="subtitle">Passe o mouse pelas fotos para ampliá-las e clique nos cards para ver o código de cada projeto.</h2>
+        <h1 class="text-color-[#EFEFF0] font-serif mb-3.5">Projetos</h1>
+        <h2 class="text-color-[#EFEFF0] text-xsm mb-96">Passe o mouse pelas fotos para ampliá-las e clique nos cards para ver o código de cada projeto.</h2>
 
         <div>
             <Card1/>
@@ -26,16 +26,5 @@ import Card5 from './projects/Card5.vue';
 #projects{
     padding-top: 10%;
     margin-bottom: 12%;
-}
-.title{
-    color: #EFEFF0;
-    font-family: serif;
-    margin-bottom: 40%;
-}
-.subtitle{
-    color: #EFEFF0;
-    font-size: 22px;
-    margin-bottom: 39%;
-    margin-top: -39%;
 }
 </style>
