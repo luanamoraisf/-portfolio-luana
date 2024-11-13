@@ -6,16 +6,19 @@
 
     <div id="icons">
         <a href="https://github.com/luanamoraisf" target="_blank">
-            <img id="git" src="../assets/contact/icons8-github-64.png">
+            <img src="../assets/contact/icons8-github-64.png">
         </a>
         <a href="https://www.linkedin.com/in/luana-florencio/" target="_blank">
-            <img id="linkedin" src="../assets/contact/icons8-linkedin-64.png">
+            <img src="../assets/contact/icons8-linkedin-64.png">
         </a>
         <a href="https://wa.me/558186765325" target="_blank">
-            <img id="cell" src="../assets/contact/icons8-whatsapp-64.png">
+            <img src="../assets/contact/icons8-whatsapp-64.png">
         </a>
         <a href="mailto:luanaflorenciopc@gmail.com">
-            <img id="email" src="../assets/contact/icons8-enviar-60.png">
+            <img src="../assets/contact/icons8-enviar-60.png">
+        </a>
+        <a href="https://www.youtube.com/@LuaDevHub" target="_blank">
+            <img src="../assets/contact/icons8-youtube-68.png">
         </a>
     </div>
    
