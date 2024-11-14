@@ -33,7 +33,7 @@
         
         <div class="text-[#EFEFF0] text-xsm ml-96 -mr-14 mt-36">
             <h2 class="ml-96 -mt-2">Desenvolvedora de Software FullStack</h2>
-            <h2 class="ml-64">Verdanatec Soluções em TI</h2>
+            <h2 class="ml-64">Verdanatech Soluções em TI</h2>
             <h2 class="ml-40">07/2021 - 02/2022</h2>
         </div>
     </section>
