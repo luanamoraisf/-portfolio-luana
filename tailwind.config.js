@@ -3,6 +3,7 @@ export default {
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
     fontSize: {
+      min: '1.2rem',
       xxsm: '1.3rem',
       xsm: '1.5rem',
       sm: '2rem',

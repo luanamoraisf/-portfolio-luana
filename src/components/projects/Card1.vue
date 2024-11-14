@@ -12,7 +12,7 @@
         <h2 id="technology3" class="text-[#EFEFF0] text-xxsm">MySQL</h2>
 
         <h2 id="project1" class="text-[#1A1D22] text-sm font-bold">Econômico</h2>
-        <h2 id="text1" class="text-[#1A1D22] text-xxsm">Aplicação com sistema de autenticação <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
+        <h2 id="text1" class="text-[#1A1D22] text-min">Aplicação com sistema de autenticação <br> desenvolvido com o intuito de auxiliar <br> jovens e adultos no controle financeiro.</h2>
 
         <div class="picture">
             <img id="picture1" src="../../assets/projects/economico2.png">
